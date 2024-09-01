@@ -16,7 +16,7 @@ const Navbar = () => {
                     </div>
                     
                     <div className="flex gap-4 items-center">
-                        <a href='https://stock-prediction-solana.vercel.app/' className='bg-black rounded-xl px-4 py-2.5'>
+                        <a href='https://transaction-cash-app.vercel.app/' className='bg-black rounded-xl px-4 py-2.5'>
                             <button className="rounded-xl font-semibold items-center bg-[linear-gradient(to_right,#dd7ddf,#e1cd86,#bbcb92,#71c2ef,#3bffff,#dd7ddf,#e1cd86,#bbcb92,#71c2ef,#3bffff)] bg-clip-text text-transparent [background-size:200%]"> Send Solana </button>
                         </a>
                     </div>
