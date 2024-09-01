@@ -19,15 +19,15 @@ const Hero = () => {
         </div>
         <div className="max-w-[600px] lg:max-w-[900px] mx-auto">
           <h1 className="text-4xl md:text-5xl lg:text-4xl font-black tracking-tighter bg-gradient-to-b from-black to-black/70 dark:bg-gradient-to-b dark:from-white dark:to-white/70 text-transparent bg-clip-text text-center">
-            BlockStock : Stock prediction app for Crypto.
+            BlockCash : Solana Transaction App.
           </h1>
 
           <p className="md:text-lg tracking-tighter text-black/70 dark:text-white/70 text-center mt-5 font-medium">
-          Predict future stock prices and win if your estimate is closest.
+          You can transact SOL and check Transaction History in this app.
           </p>
         </div>
         <div className="mt-10 flex justify-center ">
-          <a href="https://stock-prediction-solana.vercel.app/">
+          <a href="https://transaction-cash-app.vercel.app/">
             <button className="rounded-md font-semibold items-center text-white bg-black px-4 py-2">Get Started</button>
             
           </a>
